@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Projeto-Agenda-Web">
-<img width="800"  height="400" src="presentation/Agenda-Web.gif">
+<img width="576" height="466" src="presentation/Agenda-Web.gif">
 </p>
 
 ## 🛠 Tecnologias utilizadas:
